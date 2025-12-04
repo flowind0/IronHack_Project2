@@ -162,7 +162,7 @@ By completing this project, you will:
 ## 📦 Deliverables Checklist
 
 - [ ] Cleaned data files  
-- [ ] Python analysis notebooks  
-- [ ] Tableau dashboard (.twbx)  
-- [ ] Final presentation slides  
+- [ 01_EDA_and_Cleaning.ipynb ] Python analysis notebooks  
+- [ Dashboard_V1_.twb.twbx ] Tableau dashboard (.twbx)  
+- [ https://prezi.com/p/edit/eqsnwx6qvkuk/ ] Final presentation slides  
 - [ ] `README.md` (this file)
